@@ -1,0 +1,4 @@
+//let jwtObj = {};
+//jwtObj.secret = "dkdrlahEl88$$eoflaeogkrry";
+//module.exports = jwtObj;
+module.exports = "dkdrlahEL88$$eoflaeogkrry";
